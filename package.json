@@ -1,0 +1,28 @@
+{
+  "name": "mu-server",
+  "version": "0.1.0",
+  "description": "A MUSH/MUX like RP text based RPG server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcanady/mu-server.git"
+  },
+  "keywords": [
+    "MUX",
+    "MUSH",
+    "Text",
+    "RPG",
+    "Multiplayer",
+    "MMO",
+    "MUD"
+  ],
+  "author": "Lemuel Canady, Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcanady/mu-server/issues"
+  },
+  "homepage": "https://github.com/lcanady/mu-server#readme"
+}
